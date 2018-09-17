@@ -9,7 +9,7 @@ Vue.use(Router)
 module.exports = new Router({
   routes: [
     {
-      path: '/home',
+      path: '/',
       name: 'HomeList',
       component: HomeList
     },
